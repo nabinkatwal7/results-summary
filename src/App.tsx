@@ -43,7 +43,7 @@ function App() {
                   <div className={"flex flex-row font-bold"}><p className={"text-[#3E4059]"}>80</p><p
                       className={"text-[#929095]"}>/100</p></div>
               </div>
-              <button className="bg-[#5F3FFC] p-3 rounded-full w-full text-white">Continue</button>
+              <button className="bg-[#303B59] hover:bg-[#5F3FFC] p-3 rounded-full w-full text-white">Continue</button>
           </div>
       </div>
     </div>
